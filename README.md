@@ -6,7 +6,7 @@
     
   </a>
   <a href="https://github.com/marilmde/cukimay_bot">
-    <img src="https://img.shields.io/github/stars/ramadhani892/RAM-UBOT?style=social">
+    <img src="https://img.shields.io/github/stars/marilmde/cukimay_bot?style=social">
   </a>
 </p>  
 
